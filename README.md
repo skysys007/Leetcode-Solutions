@@ -1,4 +1,7 @@
+
 # LeetCode Solutions 🚀
+
+## Version 2
 
 This repository contains my solutions to **LeetCode problems**, written as part of my continuous practice to improve **data structures, algorithms, and problem-solving skills**.
 
